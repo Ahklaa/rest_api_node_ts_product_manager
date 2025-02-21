@@ -1,0 +1,12 @@
+{
+  "name": "rest_api_node-ts-server",
+  "version": "1.0.0",
+  "description": "rest api with nodejs and typescript for a product manager",
+  "license": "ISC",
+  "author": "Ahkla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
